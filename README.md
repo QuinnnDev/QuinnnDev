@@ -1,4 +1,10 @@
-## Hi there 👋
+# ★　QUINN JOINS THE BATTLE ('◇')ゞ
+
+  📚💻 Actualmente estudiando una Tecnicatura en Programacion en la UTN<br/>
+   Stack: C++, C#, .NET, ASP.NET, SQL, HTML, CSS<br/>
+
+
+[![QuinnnDev's github stats](https://github-readme-stats.vercel.app/api?username=QuinnnDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **QuinnnDev/QuinnnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
